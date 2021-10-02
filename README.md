@@ -1,12 +1,18 @@
 # react-component-library
 
-To run
+This is a collection of React components.
 
-    yarn
+## Getting started
 
-    # To start Storybook
-    yarn storybook
+### To start Storybook 🎉
 
-    # To test
-    yarn test
-    yarn test:watch
+```bash
+yarn storybook
+```
+
+### To test 🧪
+
+```bash
+yarn test
+yarn test:watch
+```
