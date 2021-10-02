@@ -12,16 +12,3 @@ exports[`<Button /> spec renders the component 1`] = `
   </button>
 </DocumentFragment>
 `;
-
-exports[`<Button /> spec renders the loading button component 1`] = `
-<DocumentFragment>
-  <button
-    class="storybook-button storybook-button--medium storybook-button--primary"
-    type="button"
-  >
-    <span>
-      foo
-    </span>
-  </button>
-</DocumentFragment>
-`;
